@@ -8,3 +8,6 @@ Rodger, ~all is great~ we have a problem !
 * Ballek
 
 Voyons voir
+
+
+Ajout d'un élément avec le terminal
